@@ -60,5 +60,4 @@ int main(){
           sem_destroy(&forks[i]);
      }
 
-     return 0;
 }
